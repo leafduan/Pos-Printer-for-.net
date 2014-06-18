@@ -1,5 +1,6 @@
 using System;
 using Microsoft.PointOfService;
+// WebPrint.Framework reference https://github.com/LeafDuan/WebPrint/tree/master/WebPrint.Framework
 using WebPrint.Framework;
 
 namespace WebPrint.Pos
