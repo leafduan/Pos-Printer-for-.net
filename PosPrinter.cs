@@ -39,7 +39,7 @@ namespace WebPrint.Pos
 
                 if (_printer == null)
                     throw new NullReferenceException(
-                        "Create the instance of Microsoft.PointOfService.PosPrinter faild.");
+                        "Create the instance of Microsoft.PointOfService.PosPrinter failed.");
 
                 InitPrinter();
                 return _printer;
